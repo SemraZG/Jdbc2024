@@ -7,7 +7,7 @@ import java.sql.Statement;
 
 public class Execute01 {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
-
+//onc epom.xml e dependency i ekledik
         //1. Adım: Driver'a kaydol
         Class.forName("org.postgresql.Driver");//java 7 ile birlikte gerek kalmadi
 
