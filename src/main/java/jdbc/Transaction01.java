@@ -65,7 +65,7 @@ transactionı sonlandırıp değişiklikleri kalıcı hale getirebiliriz.
         }
 
         //işlemlerden 1 i başarılı diğeri başarısız oldu
-        //veriler tutarsız
+        //veriler tutarsız--> Cozum Transaction02 Classinda
         st.close();
         con.close();
 
